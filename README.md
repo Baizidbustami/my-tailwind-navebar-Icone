@@ -1,7 +1,6 @@
 # Getting Started with Create React App
 
-Live projects
-https://symphonious-swan-26c79b.netlify.app/
+## https://symphonious-swan-26c79b.netlify.app/
 
 ## Available Scripts
 
